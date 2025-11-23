@@ -6,6 +6,14 @@ understand file handling, structures, basic authentication, and
 menu-driven programs.
 
 ------------------------------------------------------------------------
+## 📷 Project Preview
+<p align="center">
+  <img src="https://github.com/shrutimoharana75-byte/Vault-Bank-c/blob/c7cf668aabe768cf9eacb6766734542a9c9cfd98/Banking-Sys_OUTPUT.png" alt="Banking System Output" width="70%">
+</p>
+
+
+
+------------------------------------------------------------------------
 
 ## 📌 Features
 
