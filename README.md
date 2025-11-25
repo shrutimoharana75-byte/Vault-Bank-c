@@ -6,10 +6,20 @@ understand file handling, structures, basic authentication, and
 menu-driven programs.
 
 ------------------------------------------------------------------------
-## 📷 Project Preview
-<p align="center">
-  <img src="https://github.com/shrutimoharana75-byte/Vault-Bank-c/blob/c7cf668aabe768cf9eacb6766734542a9c9cfd98/Banking-Sys_OUTPUT.png" alt="Banking System Output" width="70%">
-</p>
+## 📸 Screenshots
+
+### **1. Screenshot 1**
+![Screenshot 1](https://github.com/shrutimoharana75-byte/Vault-Bank-c/blob/577f8e6e217016fcef0361ee03a0bf4aab2e9f73/Screenshot%202025-11-25%20144510.png)
+
+### **2. Screenshot 2**
+![Screenshot 2](https://github.com/shrutimoharana75-byte/Vault-Bank-c/blob/577f8e6e217016fcef0361ee03a0bf4aab2e9f73/Screenshot%202025-11-25%20144532.png)
+
+### **3. Screenshot 3**
+![Screenshot 3](https://github.com/shrutimoharana75-byte/Vault-Bank-c/blob/577f8e6e217016fcef0361ee03a0bf4aab2e9f73/Screenshot%202025-11-25%20144558.png)
+
+### **4. Screenshot 4**
+![Screenshot 4](https://github.com/shrutimoharana75-byte/Vault-Bank-c/blob/577f8e6e217016fcef0361ee03a0bf4aab2e9f73/Screenshot%202025-11-25%20144610.png)
+
 
 
 
